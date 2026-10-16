@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pet-talk",
+    "title": "Make your pet the narrator",
+    "category": "Video & memes",
+    "tool": "Remaker",
+    "icon": "🐾",
+    "description": "Turn a pet portrait and a short voice track into a talking-animal concept.",
+    "url": "https://remaker.ai/talking-animals/",
+    "evidence": "Provider describes talking-animal generation.",
+    "inputs": "A clear pet portrait and an audio clip you own.",
+    "steps": [
+      "Choose a front-facing portrait.",
+      "Record an original short voiceover.",
+      "Generate with the provider and review the mouth movement."
+    ],
+    "prompt": "Create a warm, playful talking-pet clip using my reference photo and original voiceover. Preserve the pet’s markings. Keep movements subtle. Do not add people or logos.",
+    "caution": "Photo consent and voice rights matter. Animal lip sync can fail."
+  },
+  {
+    "id": "pet-dance",
+    "title": "Give your pet a dance-floor moment",
+    "category": "Video & memes",
+    "tool": "MakeViral",
+    "icon": "♫",
+    "description": "Explore a photo-to-dance template without writing a long technical prompt.",
+    "url": "https://www.makeviral.ai/templates",
+    "evidence": "Provider publishes pet and human dance templates.",
+    "inputs": "One pet photo; some templates require two.",
+    "steps": [
+      "Browse the live template library.",
+      "Check required photos, credit cost and music terms.",
+      "Generate and review anatomy before sharing."
+    ],
+    "prompt": "Design an original short pet dance concept from my photo. Use a gentle bounce, recognizable fur markings and a fixed camera. Use original or properly licensed audio.",
+    "caution": "Template availability, music rights and provider charges vary."
+  },
+  {
+    "id": "motion-remix",
+    "title": "Remix a character’s movement",
+    "category": "Video & memes",
+    "tool": "Viggle",
+    "icon": "↝",
+    "description": "Use character-motion tools for an original meme or performance concept.",
+    "url": "https://viggle.ai/",
+    "evidence": "Official platform provides motion-focused AI creation.",
+    "inputs": "A character image and a movement concept.",
+    "steps": [
+      "Explore the provider’s creation tools.",
+      "Use a character image you have permission to animate.",
+      "Test one short motion and inspect the output."
+    ],
+    "prompt": "Help me storyboard an original 6-second character-motion remix. Explain the input assets I need and suggest a simple movement that avoids complex occlusion.",
+    "caution": "Check likeness consent and the rights to any reference performance."
+  },
+  {
+    "id": "product-video",
+    "title": "Bring a product photo to life",
+    "category": "Video & memes",
+    "tool": "Pollo AI",
+    "icon": "◈",
+    "description": "Plan a short product reveal from a single clean reference image.",
+    "url": "https://pollo.ai/ai-video",
+    "evidence": "Official page describes product image-to-video.",
+    "inputs": "A product image and a simple shot idea.",
+    "steps": [
+      "Prepare a clean product image.",
+      "Describe one camera move and one product action.",
+      "Generate externally and check logos and shape."
+    ],
+    "prompt": "Create a short product reveal from this image. Keep packaging, logo and proportions unchanged. Use soft studio light and a slow camera orbit. No additional text.",
+    "caution": "Small text, logos and product geometry may change during generation."
+  },
+  {
+    "id": "retro-portrait",
+    "title": "Try a nostalgic yearbook portrait",
+    "category": "Photos & portraits",
+    "tool": "Photo AI",
+    "icon": "◉",
+    "description": "Explore portrait styles and build a specific creative brief before spending credits.",
+    "url": "https://photoai.com/",
+    "evidence": "Official product offers AI image and video generation.",
+    "inputs": "Portrait references accepted by the provider.",
+    "steps": [
+      "Check the provider’s current photo requirements.",
+      "Choose era, lighting and wardrobe cues.",
+      "Review face consistency and download terms."
+    ],
+    "prompt": "Create a 1990s school-portrait concept: soft studio flash, a blue mottled backdrop and restrained film grain. Preserve identity and natural skin texture. No school logo.",
+    "caution": "This is a style idea, not a verified template or guaranteed likeness result."
+  },
+  {
+    "id": "social-design",
+    "title": "Turn an idea into a social design",
+    "category": "Design & content",
+    "tool": "Canva",
+    "icon": "✧",
+    "description": "Build a visual concept, then refine layout and readable copy in a design editor.",
+    "url": "https://www.canva.com/canva-ai/",
+    "evidence": "Official page describes AI design and creative tools.",
+    "inputs": "A topic, audience and desired format.",
+    "steps": [
+      "Describe the audience and main message.",
+      "Ask for one visual direction and short headline.",
+      "Edit typography and verify export rights."
+    ],
+    "prompt": "Design a square social post for [audience] about [topic]. Use one clear headline, generous negative space and a simple visual hierarchy. Provide three concise copy options.",
+    "caution": "Review generated text, stock licensing and brand accuracy."
+  },
+  {
+    "id": "edit-by-text",
+    "title": "Edit a video through its transcript",
+    "category": "Design & content",
+    "tool": "Descript",
+    "icon": "≋",
+    "description": "Use transcript-led editing to tighten a spoken video and create a clearer story.",
+    "url": "https://www.descript.com/",
+    "evidence": "Official product describes text-based video and audio editing.",
+    "inputs": "A recorded video or audio file.",
+    "steps": [
+      "Import a recording you own.",
+      "Review the transcript for errors.",
+      "Make a short edit and inspect timing and captions."
+    ],
+    "prompt": "Review this transcript for repetition, long pauses and unclear explanations. Suggest a tighter edit while preserving the speaker’s meaning. Do not invent quotes.",
+    "caution": "Transcription accuracy varies; check names and caption timing."
+  },
+  {
+    "id": "automation-library",
+    "title": "Find an automation starting point",
+    "category": "Automation",
+    "tool": "n8n",
+    "icon": "⌘",
+    "description": "Search community workflows and adapt one to your own apps and data.",
+    "url": "https://n8n.io/workflows/",
+    "evidence": "Official library lists workflow automation templates.",
+    "inputs": "A repeated task and access to the required apps.",
+    "steps": [
+      "Describe the trigger and desired result.",
+      "Inspect a template’s integrations and code.",
+      "Test with sample data before using live accounts."
+    ],
+    "prompt": "Design a workflow for [task]. Specify trigger, input schema, validation, actions and failure handling. Prepare drafts for external messages rather than sending automatically.",
+    "caution": "Templates are not audited here. Hosting and model/API usage may cost money."
+  },
+  {
+    "id": "visual-automation",
+    "title": "Connect a simple workflow visually",
+    "category": "Automation",
+    "tool": "Make",
+    "icon": "◎",
+    "description": "Map a trigger, transformation and destination before building a larger process.",
+    "url": "https://www.make.com/templates",
+    "evidence": "Official platform publishes workflow templates.",
+    "inputs": "Two apps and a clearly defined recurring task.",
+    "steps": [
+      "Choose a small task with observable output.",
+      "Inspect the template and connection requirements.",
+      "Run sample records and check failures and duplicates."
+    ],
+    "prompt": "Map [task] as trigger → validation → transformation → destination. Include duplicate protection and an error notification. List the permissions each app needs.",
+    "caution": "App permissions, operation allowances and third-party fees differ."
+  },
+  {
+    "id": "app-automation",
+    "title": "Start with a prebuilt app connection",
+    "category": "Automation",
+    "tool": "Zapier",
+    "icon": "⚡",
+    "description": "Use a template to connect tools, then inspect the exact actions before activation.",
+    "url": "https://zapier.com/templates",
+    "evidence": "Official site publishes automation templates.",
+    "inputs": "A trigger app and a destination app.",
+    "steps": [
+      "Search templates for your two apps.",
+      "Check each action and its account access.",
+      "Test a sample and enable only the approved actions."
+    ],
+    "prompt": "Help me plan an automation between [app A] and [app B]. Identify the trigger, field mapping, missing-data behavior and duplicate handling. Show the test plan before activation.",
+    "caution": "A template is not proof of reliability for your data or accounts."
+  }
+]

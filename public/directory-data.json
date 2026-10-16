@@ -1,0 +1,766 @@
+{
+  "revision": 7,
+  "items": [
+    {
+      "id": "pet-talk",
+      "title": "Make your pet the narrator",
+      "category": "Video & memes",
+      "tool": "Remaker",
+      "icon": "🐾",
+      "description": "Turn a pet portrait and a short voice track into a talking-animal concept.",
+      "url": "https://remaker.ai/talking-animals/",
+      "evidence": "Provider describes talking-animal generation.",
+      "inputs": "A clear pet portrait and an audio clip you own.",
+      "steps": [
+        "Choose a front-facing portrait.",
+        "Record an original short voiceover.",
+        "Generate with the provider and review the mouth movement."
+      ],
+      "prompt": "Create a warm, playful talking-pet clip using my reference photo and original voiceover. Preserve the pet’s markings. Keep movements subtle. Do not add people or logos.",
+      "caution": "Photo consent and voice rights matter. Animal lip sync can fail.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "pet-dance",
+      "title": "Give your pet a dance-floor moment",
+      "category": "Video & memes",
+      "tool": "MakeViral",
+      "icon": "♫",
+      "description": "Explore a photo-to-dance template without writing a long technical prompt.",
+      "url": "https://www.makeviral.ai/templates",
+      "evidence": "Provider publishes pet and human dance templates.",
+      "inputs": "One pet photo; some templates require two.",
+      "steps": [
+        "Browse the live template library.",
+        "Check required photos, credit cost and music terms.",
+        "Generate and review anatomy before sharing."
+      ],
+      "prompt": "Design an original short pet dance concept from my photo. Use a gentle bounce, recognizable fur markings and a fixed camera. Use original or properly licensed audio.",
+      "caution": "Template availability, music rights and provider charges vary.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "motion-remix",
+      "title": "Remix a character’s movement",
+      "category": "Video & memes",
+      "tool": "Viggle",
+      "icon": "↝",
+      "description": "Use character-motion tools for an original meme or performance concept.",
+      "url": "https://viggle.ai/",
+      "evidence": "Official platform provides motion-focused AI creation.",
+      "inputs": "A character image and a movement concept.",
+      "steps": [
+        "Explore the provider’s creation tools.",
+        "Use a character image you have permission to animate.",
+        "Test one short motion and inspect the output."
+      ],
+      "prompt": "Help me storyboard an original 6-second character-motion remix. Explain the input assets I need and suggest a simple movement that avoids complex occlusion.",
+      "caution": "Check likeness consent and the rights to any reference performance.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "product-video",
+      "title": "Bring a product photo to life",
+      "category": "Video & memes",
+      "tool": "Pollo AI",
+      "icon": "◈",
+      "description": "Plan a short product reveal from a single clean reference image.",
+      "url": "https://pollo.ai/ai-video",
+      "evidence": "Official page describes product image-to-video.",
+      "inputs": "A product image and a simple shot idea.",
+      "steps": [
+        "Prepare a clean product image.",
+        "Describe one camera move and one product action.",
+        "Generate externally and check logos and shape."
+      ],
+      "prompt": "Create a short product reveal from this image. Keep packaging, logo and proportions unchanged. Use soft studio light and a slow camera orbit. No additional text.",
+      "caution": "Small text, logos and product geometry may change during generation.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "retro-portrait",
+      "title": "Try a nostalgic yearbook portrait",
+      "category": "Photos & portraits",
+      "tool": "Photo AI",
+      "icon": "◉",
+      "description": "Explore portrait styles and build a specific creative brief before spending credits.",
+      "url": "https://photoai.com/",
+      "evidence": "Official product offers AI image and video generation.",
+      "inputs": "Portrait references accepted by the provider.",
+      "steps": [
+        "Check the provider’s current photo requirements.",
+        "Choose era, lighting and wardrobe cues.",
+        "Review face consistency and download terms."
+      ],
+      "prompt": "Create a 1990s school-portrait concept: soft studio flash, a blue mottled backdrop and restrained film grain. Preserve identity and natural skin texture. No school logo.",
+      "caution": "This is a style idea, not a verified template or guaranteed likeness result.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "social-design",
+      "title": "Turn an idea into a social design",
+      "category": "Design & content",
+      "tool": "Canva",
+      "icon": "✧",
+      "description": "Build a visual concept, then refine layout and readable copy in a design editor.",
+      "url": "https://www.canva.com/canva-ai/",
+      "evidence": "Official page describes AI design and creative tools.",
+      "inputs": "A topic, audience and desired format.",
+      "steps": [
+        "Describe the audience and main message.",
+        "Ask for one visual direction and short headline.",
+        "Edit typography and verify export rights."
+      ],
+      "prompt": "Design a square social post for [audience] about [topic]. Use one clear headline, generous negative space and a simple visual hierarchy. Provide three concise copy options.",
+      "caution": "Review generated text, stock licensing and brand accuracy.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "edit-by-text",
+      "title": "Edit a video through its transcript",
+      "category": "Design & content",
+      "tool": "Descript",
+      "icon": "≋",
+      "description": "Use transcript-led editing to tighten a spoken video and create a clearer story.",
+      "url": "https://www.descript.com/",
+      "evidence": "Official product describes text-based video and audio editing.",
+      "inputs": "A recorded video or audio file.",
+      "steps": [
+        "Import a recording you own.",
+        "Review the transcript for errors.",
+        "Make a short edit and inspect timing and captions."
+      ],
+      "prompt": "Review this transcript for repetition, long pauses and unclear explanations. Suggest a tighter edit while preserving the speaker’s meaning. Do not invent quotes.",
+      "caution": "Transcription accuracy varies; check names and caption timing.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "automation-library",
+      "title": "Find an automation starting point",
+      "category": "Automation",
+      "tool": "n8n",
+      "icon": "⌘",
+      "description": "Search community workflows and adapt one to your own apps and data.",
+      "url": "https://n8n.io/workflows/",
+      "evidence": "Official library lists workflow automation templates.",
+      "inputs": "A repeated task and access to the required apps.",
+      "steps": [
+        "Describe the trigger and desired result.",
+        "Inspect a template’s integrations and code.",
+        "Test with sample data before using live accounts."
+      ],
+      "prompt": "Design a workflow for [task]. Specify trigger, input schema, validation, actions and failure handling. Prepare drafts for external messages rather than sending automatically.",
+      "caution": "Templates are not audited here. Hosting and model/API usage may cost money.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "visual-automation",
+      "title": "Connect a simple workflow visually",
+      "category": "Automation",
+      "tool": "Make",
+      "icon": "◎",
+      "description": "Map a trigger, transformation and destination before building a larger process.",
+      "url": "https://www.make.com/templates",
+      "evidence": "Official platform publishes workflow templates.",
+      "inputs": "Two apps and a clearly defined recurring task.",
+      "steps": [
+        "Choose a small task with observable output.",
+        "Inspect the template and connection requirements.",
+        "Run sample records and check failures and duplicates."
+      ],
+      "prompt": "Map [task] as trigger → validation → transformation → destination. Include duplicate protection and an error notification. List the permissions each app needs.",
+      "caution": "App permissions, operation allowances and third-party fees differ.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "app-automation",
+      "title": "Start with a prebuilt app connection",
+      "category": "Automation",
+      "tool": "Zapier",
+      "icon": "⚡",
+      "description": "Use a template to connect tools, then inspect the exact actions before activation.",
+      "url": "https://zapier.com/templates",
+      "evidence": "Official site publishes automation templates.",
+      "inputs": "A trigger app and a destination app.",
+      "steps": [
+        "Search templates for your two apps.",
+        "Check each action and its account access.",
+        "Test a sample and enable only the approved actions."
+      ],
+      "prompt": "Help me plan an automation between [app A] and [app B]. Identify the trigger, field mapping, missing-data behavior and duplicate handling. Show the test plan before activation.",
+      "caution": "A template is not proof of reliability for your data or accounts.",
+      "sourceType": "official",
+      "addedAt": "2026-10-16T02:03:36.257Z",
+      "checkedAt": "2026-10-16T02:03:36.257Z",
+      "tested": false
+    },
+    {
+      "id": "research-linear-agent",
+      "title": "Turn a Linear issue into a research request",
+      "category": "Research & knowledge",
+      "tool": "n8n · Scrapeless · Claude",
+      "icon": "⌕",
+      "description": "A published template connects Linear commands to web research and returns analysis as issue comments.",
+      "url": "https://n8n.io/workflows/6220-ai-powered-research-assistant-with-linear-scrapeless-and-claude/",
+      "evidence": "The template publisher describes Linear-triggered search, trend analysis and crawling. This is a published workflow description, not our test result.",
+      "inputs": "A Linear workspace, n8n setup and the template's provider credentials.",
+      "steps": [
+        "Read the template and inspect required services.",
+        "Test a research command in a sample Linear issue.",
+        "Review the analysis and sources before relying on them."
+      ],
+      "prompt": "Plan a research assistant that receives a topic from an issue, collects original sources and drafts a cited analysis. Keep any external posting disabled until reviewed.",
+      "caution": "The template is older, not newly released. External services and model usage may cost money; permissions and source quality need review.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T02:20:27.014Z",
+      "checkedAt": "2026-10-16T02:20:27.014Z"
+    },
+    {
+      "id": "deep-research-loop",
+      "title": "Build a research loop with source citations",
+      "category": "Research & knowledge",
+      "tool": "n8n",
+      "icon": "↻",
+      "description": "Explore an n8n template that combines query planning, search, content extraction and report generation.",
+      "url": "https://n8n.io/workflows/2883-open-deep-research-ai-powered-autonomous-research-workflow/",
+      "evidence": "The published template describes an iterative search-and-analysis workflow using external APIs and a source-linked final report. We did not execute it.",
+      "inputs": "n8n and the model, search and extraction services specified by the template.",
+      "steps": [
+        "Review the integrations and API requirements.",
+        "Test with a narrow non-sensitive research topic.",
+        "Inspect citations and verify source support manually."
+      ],
+      "prompt": "Research [topic] from original sources. Separate source facts, author claims and your inferences. Stop when evidence is insufficient, and list unresolved questions.",
+      "caution": "Free template access does not mean free API execution. Search and model providers may charge. This is newly added to our directory, not a newly published tool.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T02:20:27.014Z",
+      "checkedAt": "2026-10-16T02:20:27.014Z"
+    },
+    {
+      "id": "browser-agent-library",
+      "title": "Explore a browser agent for repeatable web tasks",
+      "category": "Agents & coding",
+      "tool": "Browser Use",
+      "icon": "⌘",
+      "description": "The project offers a Python agent library, CLI integration and a separately hosted cloud service for browser tasks.",
+      "url": "https://github.com/browser-use/browser-use",
+      "evidence": "The official repository documents local-library, CLI and hosted-cloud options. It states that model inference and cloud browser services can have separate charges.",
+      "inputs": "A chosen deployment path, supported runtime and the provider credentials needed for that path.",
+      "steps": [
+        "Read the official setup guide and choose local or hosted operation.",
+        "Begin with a read-only task on a site that permits the access.",
+        "Review results and add logging before scheduling repeat tasks."
+      ],
+      "prompt": "Plan a read-only browser task to collect [public information] from [source]. Respect access restrictions, record source URLs and timestamps, and report failures instead of bypassing them.",
+      "caution": "No browser or AI model guarantees success on every website. Account access and external writes require separate authorization. Model and hosting charges may apply.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T02:20:27.014Z",
+      "checkedAt": "2026-10-16T02:20:27.014Z"
+    },
+    {
+      "id": "gemini-connected-app-tasks",
+      "title": "Delegate a task across connected apps",
+      "category": "Everyday productivity",
+      "tool": "Gemini app",
+      "icon": "↗",
+      "description": "Google's October 13 announcement describes a Tasks mode for work across connected apps, including while the user is away.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "evidence": "Google describes Tasks mode and connected-app actions. These are vendor capabilities, not independently tested outcomes.",
+      "inputs": "An eligible Google account, supported plan and app connections.",
+      "steps": [
+        "Check account and regional availability.",
+        "Connect only the apps needed for one task.",
+        "Review permissions and any booking or purchase before confirmation."
+      ],
+      "prompt": "Plan [task] using my connected apps. Identify missing information and permissions. Ask before any purchase, booking or external message.",
+      "caution": "Google names Pro and Ultra access. Availability and app permissions vary; completion is not guaranteed.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": "2026-10-13",
+      "addedAt": "2026-10-16T02:23:23.561Z",
+      "checkedAt": "2026-10-16T02:23:23.561Z"
+    },
+    {
+      "id": "haiku-agent-ticket-triage",
+      "title": "Explore a fast agent for ticket triage",
+      "category": "Agents & coding",
+      "tool": "Claude Haiku 5.5",
+      "icon": "⌘",
+      "description": "Anthropic describes the model for repetitive agent work and publishes Asana's account of testing bug triage and project tasks.",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "evidence": "The launch page includes a named customer's evaluation account. We did not reproduce it and do not treat its performance claims as independent findings.",
+      "inputs": "A labeled test set of non-sensitive tickets and access to the chosen model.",
+      "steps": [
+        "Define labels and an escalation rule.",
+        "Evaluate a small historical sample.",
+        "Review uncertain classifications before connecting live tools."
+      ],
+      "prompt": "Classify these sample tickets using [labels]. Give a short rationale and mark ambiguous items for review. Do not change live records.",
+      "caution": "API charges may apply. A vendor's customer example does not establish accuracy on your tickets.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": "2026-10-07",
+      "addedAt": "2026-10-16T02:23:23.561Z",
+      "checkedAt": "2026-10-16T02:23:23.561Z"
+    },
+    {
+      "id": "calendar-agent-starter",
+      "title": "Try a conversational calendar assistant",
+      "category": "Everyday productivity",
+      "tool": "n8n · OpenAI · Google Calendar",
+      "icon": "▦",
+      "description": "A published beginner template describes retrieving calendar events and creating them through an AI agent.",
+      "url": "https://n8n.io/workflows/2703-ai-agent-google-calendar-assistant-using-openai",
+      "evidence": "The template author lists two calendar capabilities. The template is older; this is a new directory entry, not a new product release.",
+      "inputs": "n8n, Google Calendar access and the template's model credentials.",
+      "steps": [
+        "Inspect the template and credential scopes.",
+        "Start by retrieving events from a test calendar.",
+        "Confirm timezone and event details before enabling creation."
+      ],
+      "prompt": "Find availability in this test calendar for [time range]. Draft an event with an explicit timezone and ask for confirmation before creating or inviting anyone.",
+      "caution": "Template access and API usage are separate. Verify model costs and account permissions.",
+      "sourceType": "official",
+      "tested": false,
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T02:23:23.561Z",
+      "checkedAt": "2026-10-16T02:23:23.561Z"
+    },
+    {
+      "id": "youtube-content-bundle",
+      "title": "Turn a video into a content bundle",
+      "category": "Design & content",
+      "tool": "n8n · Gemini · Google Sheets",
+      "icon": "▶",
+      "description": "Generate reusable drafts from a YouTube transcript and organize them in a spreadsheet.",
+      "url": "https://n8n.io/workflows/16060-repurpose-youtube-videos-into-multichannel-content-with-gemini-and-google-sheets/",
+      "evidence": "Ravi Patel's template describes transcript retrieval, Gemini drafts, spreadsheet logging and LinkedIn publishing. Author documentation; not our test.",
+      "inputs": "A permitted video URL, n8n, RapidAPI, Gemini and Google Sheets credentials.",
+      "steps": [
+        "Inspect the template and disable LinkedIn publishing.",
+        "Configure transcript access and draft destinations.",
+        "Review generated copy against the transcript."
+      ],
+      "prompt": "Draft a short article and social post from this transcript. Preserve meaning, flag uncertainty and prepare drafts for review.",
+      "caution": "Existing template, not a new release. API charges and content rights need checking; publishing requires account authorization.",
+      "sourceType": "tutorial",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "把视频整理成一组内容草稿",
+          "description": "根据 YouTube 转录生成可复用的草稿，并在电子表格中整理。",
+          "evidence": "Ravi Patel 的模板介绍了转录获取、Gemini 草稿、表格日志及 LinkedIn 发布。这是作者文档，并非我们的实测。",
+          "inputs": "有权使用的视频网址、n8n，以及 RapidAPI、Gemini 和 Google Sheets 凭据。",
+          "steps": [
+            "检查模板并停用 LinkedIn 发布。",
+            "配置转录访问和草稿存放位置。",
+            "对照转录审核生成的文案。"
+          ],
+          "prompt": "根据这份转录起草一篇短文和一则社交帖子。保持原意，标出不确定之处，生成供审核的草稿。",
+          "caution": "这是已有模板，并非新品。需检查 API 费用和内容使用权；发布需要账户授权。"
+        },
+        "ja": {
+          "title": "動画から複数のコンテンツ下書きを作る",
+          "description": "YouTube の文字起こしから再利用できる下書きを生成し、スプレッドシートに整理します。",
+          "evidence": "Ravi Patel のテンプレートは文字起こし取得、Gemini による下書き、表への記録、LinkedIn 投稿を説明しています。作者の説明であり、当方の実測ではありません。",
+          "inputs": "利用権限のある動画 URL、n8n、RapidAPI・Gemini・Google Sheets の認証情報。",
+          "steps": [
+            "テンプレートを確認し、LinkedIn 投稿を無効にする。",
+            "文字起こしへのアクセスと下書きの保存先を設定する。",
+            "生成文を文字起こしと照合して確認する。"
+          ],
+          "prompt": "この文字起こしから短い記事とソーシャル投稿の下書きを作成してください。意味を保ち、不確実な点を示し、確認用の下書きにしてください。",
+          "caution": "既存のテンプレートで、新製品ではありません。API 料金とコンテンツの権利を確認してください。投稿にはアカウントの許可が必要です。"
+        }
+      },
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T03:23:08.844Z",
+      "checkedAt": "2026-10-16T03:23:08.844Z"
+    },
+    {
+      "id": "meeting-transcript-followup",
+      "title": "Plan follow-up meetings from transcripts",
+      "category": "Everyday productivity",
+      "tool": "n8n · OpenAI · Google Calendar",
+      "icon": "▦",
+      "description": "Use meeting transcripts to summarize discussions and identify follow-up meetings.",
+      "url": "https://n8n.io/workflows/2328-actioning-your-meeting-next-steps-using-transcripts-and-ai/",
+      "evidence": "Jimleuk's template describes an agent that reads transcripts and creates follow-up calendar events with known attendees. This is the author's description, not an independently tested result.",
+      "inputs": "n8n, OpenAI access, Google Calendar and transcript OAuth permissions.",
+      "steps": [
+        "Inspect transcript permissions and use a test calendar.",
+        "Review extracted follow-up details.",
+        "Confirm attendees, timezone and timing before enabling event creation."
+      ],
+      "prompt": "Summarize this transcript and draft any explicitly agreed follow-up meeting. Flag missing dates or attendees; request review before creating events.",
+      "caution": "Older template; exact publication date not established here. Model fees may apply. Calendar writes can send invitations.",
+      "sourceType": "tutorial",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "根据会议转录规划后续会议",
+          "description": "利用会议转录总结讨论，并识别需要安排的后续会议。",
+          "evidence": "Jimleuk 的模板介绍了读取转录并创建后续日历事件、添加已知参会者的代理。这是作者描述，并非独立实测结果。",
+          "inputs": "n8n、OpenAI 访问权限、Google Calendar，以及转录所需的 OAuth 权限。",
+          "steps": [
+            "检查转录权限，并使用测试日历。",
+            "审核提取的后续会议详情。",
+            "启用事件创建前，确认参会者、时区和时间。"
+          ],
+          "prompt": "总结这份转录，为明确约定的后续会议起草安排。标出缺少的日期或参会者；创建事件前请求审核。",
+          "caution": "这是较早的模板，本次未确定准确发布日期。模型调用可能收费。写入日历可能发送邀请。"
+        },
+        "ja": {
+          "title": "会議の文字起こしから次回会議を計画する",
+          "description": "会議の文字起こしを使って議論を要約し、必要なフォローアップ会議を特定します。",
+          "evidence": "Jimleuk のテンプレートは、文字起こしを読み、既知の参加者を含む次回会議の予定を作るエージェントを説明しています。作者の説明であり、独立した実測結果ではありません。",
+          "inputs": "n8n、OpenAI へのアクセス、Google Calendar、文字起こし取得用の OAuth 権限。",
+          "steps": [
+            "文字起こしの権限を確認し、テスト用カレンダーを使う。",
+            "抽出した次回会議の詳細を確認する。",
+            "予定作成を有効にする前に、参加者・タイムゾーン・日時を確認する。"
+          ],
+          "prompt": "この文字起こしを要約し、明確に合意された次回会議の案を作ってください。不明な日付や参加者を示し、予定作成前に確認を求めてください。",
+          "caution": "以前からあるテンプレートで、今回は正確な公開日を確定していません。モデル利用料が発生する場合があります。カレンダーへの書き込みで招待が送信される可能性があります。"
+        }
+      },
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T03:23:08.844Z",
+      "checkedAt": "2026-10-16T03:23:08.844Z"
+    },
+    {
+      "id": "pr-review-team-guidelines",
+      "title": "Review pull requests against team rules",
+      "category": "Agents & coding",
+      "tool": "n8n · OpenAI · GitHub",
+      "icon": "⌘",
+      "description": "Draft a diff review using coding rules stored in Google Sheets.",
+      "url": "https://n8n.io/workflows/3804-automated-pr-code-reviews-with-github-gpt-4-and-google-sheets-best-practices/",
+      "evidence": "Jihene's tutorial describes PR-triggered reviews, comments and labels. Author documentation, not our test.",
+      "inputs": "n8n, repository access, model credentials and optional Google Sheets rules.",
+      "steps": [
+        "Inspect permissions and disable comment and label writes.",
+        "Provide a sample diff and relevant team rules.",
+        "Have a maintainer review findings."
+      ],
+      "prompt": "Review this diff against these rules. Cite changed lines, separate defects from preferences, and draft findings without posting.",
+      "caution": "Older template; exact publication date unknown. Check current model support and costs. An AI-reviewed label is not proof of correctness.",
+      "sourceType": "tutorial",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "按团队规范审查拉取请求",
+          "description": "使用 Google Sheets 中保存的编码规则，为代码差异起草审查意见。",
+          "evidence": "Jihene 的教程介绍了由拉取请求触发的审查、评论和标签。这是作者文档，并非我们的实测。",
+          "inputs": "n8n、仓库访问权限、模型凭据，以及可选的 Google Sheets 规则。",
+          "steps": [
+            "检查权限，停用评论及标签写入。",
+            "提供示例代码差异和相关团队规则。",
+            "由维护者审核发现的问题。"
+          ],
+          "prompt": "根据这些规则审查这份代码差异。引用变更行，区分缺陷和偏好，仅起草意见，不发布。",
+          "caution": "这是较早的模板，准确发布日期未知。需检查当前模型支持及费用。AI 审查标签不代表代码正确。"
+        },
+        "ja": {
+          "title": "チーム規約に沿ってプルリクエストをレビューする",
+          "description": "Google Sheets に保存したコーディング規約を使い、差分のレビュー案を作成します。",
+          "evidence": "Jihene のチュートリアルは、PR を契機とするレビュー、コメント、ラベルを説明しています。作者の説明であり、当方の実測ではありません。",
+          "inputs": "n8n、リポジトリへのアクセス、モデルの認証情報、任意の Google Sheets 規約。",
+          "steps": [
+            "権限を確認し、コメントとラベルの書き込みを無効にする。",
+            "サンプル差分と関連するチーム規約を用意する。",
+            "保守担当者が指摘を確認する。"
+          ],
+          "prompt": "この規約に沿って差分をレビューしてください。変更行を示し、不具合と好みを区別して、投稿せずに指摘案を作成してください。",
+          "caution": "以前からあるテンプレートで、正確な公開日は不明です。現在のモデル対応と費用を確認してください。AI レビュー済みラベルは正しさの証明ではありません。"
+        }
+      },
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T04:25:43.983Z",
+      "checkedAt": "2026-10-16T04:25:43.983Z"
+    },
+    {
+      "id": "earth-ai-site-screening",
+      "title": "Explore geospatial site screening",
+      "category": "Research & knowledge",
+      "tool": "Google Earth AI",
+      "icon": "◎",
+      "description": "Explore combining candidate locations with environmental and infrastructure data for an initial screening report.",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "evidence": "Google's October 14, 2026 announcement describes experimental geospatial agents and partner site-screening work. Vendor account, not independent validation.",
+      "inputs": "Early-access eligibility and permitted location data; the API supports CSV or GeoJSON.",
+      "steps": [
+        "Check experimental access requirements.",
+        "Define candidate locations and screening criteria.",
+        "Review data sources, assumptions and coverage with an expert."
+      ],
+      "prompt": "Plan a screening of these locations for [criteria]. Identify datasets, coverage gaps and assumptions. Produce an expert-review draft, not a final decision.",
+      "caution": "Limited experimental access, not general availability. Pricing is not established here; output requires expert review.",
+      "sourceType": "official",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "探索地理空间选址初筛",
+          "description": "探索将候选地点与环境、基础设施数据结合，生成初步筛选报告。",
+          "evidence": "Google 在 2026 年 10 月 14 日的公告中介绍了实验性地理空间代理及合作伙伴的选址初筛工作。这是厂商描述，并非独立验证。",
+          "inputs": "早期访问资格和有权使用的位置数据；API 支持 CSV 或 GeoJSON。",
+          "steps": [
+            "检查实验服务的访问要求。",
+            "确定候选地点和筛选标准。",
+            "与专家审核数据来源、假设及覆盖情况。"
+          ],
+          "prompt": "为这些地点按[标准]制定初筛方案。列出数据集、覆盖缺口和假设。生成供专家审核的草稿，而非最终决策。",
+          "caution": "仅限实验性早期访问，并非全面开放。本次未确认定价；输出需要专家审核。"
+        },
+        "ja": {
+          "title": "地理空間データで候補地の一次評価を検討する",
+          "description": "候補地を環境・インフラデータと組み合わせ、一次評価レポートを作る用途を検討します。",
+          "evidence": "Google の 2026 年 10 月 14 日の発表は、実験的な地理空間エージェントと提携先による候補地評価を説明しています。ベンダーの説明であり、独立した検証ではありません。",
+          "inputs": "早期アクセスの利用資格と利用権限のある位置データ。API は CSV または GeoJSON に対応。",
+          "steps": [
+            "実験的サービスへのアクセス要件を確認する。",
+            "候補地と評価基準を定める。",
+            "専門家とデータソース、前提、対象範囲を確認する。"
+          ],
+          "prompt": "これらの地点を[基準]で一次評価する計画を作ってください。データセット、対象範囲の欠落、前提を示してください。最終判断ではなく、専門家の確認用草案を作成してください。",
+          "caution": "限定的な実験アクセスで、一般提供ではありません。今回は料金を確認していません。出力には専門家の確認が必要です。"
+        }
+      },
+      "sourcePublishedAt": "2026-10-14",
+      "addedAt": "2026-10-16T04:25:43.983Z",
+      "checkedAt": "2026-10-16T04:25:43.983Z"
+    },
+    {
+      "id": "agent-tool-human-approval",
+      "title": "Require approval before an agent acts",
+      "category": "Automation",
+      "tool": "n8n",
+      "icon": "✓",
+      "description": "Pause selected agent tool calls so a reviewer can inspect parameters and approve or deny the action.",
+      "url": "https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools.md",
+      "evidence": "n8n's official documentation describes per-tool human review and approval channels. Documented capability, not our test.",
+      "inputs": "An n8n AI Agent workflow, selected tools and an authorized review channel.",
+      "steps": [
+        "Add a human review step from the agent Tools panel.",
+        "Connect tools that need approval and configure the channel.",
+        "Check approval and denial with harmless sample inputs."
+      ],
+      "prompt": "Draft [task]. Require human approval for external writes. If denied, report the cancellation and do not retry through another tool.",
+      "caution": "Review actual tool parameters; a prompt alone is not an approval gate. Provider charges may apply. No publication date established here.",
+      "sourceType": "official",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "在代理执行操作前要求人工批准",
+          "description": "暂停选定的代理工具调用，让审核者检查参数，并批准或拒绝该操作。",
+          "evidence": "n8n 官方文档介绍了针对单个工具的人工审核及审批渠道。这是文档所述能力，并非我们的实测。",
+          "inputs": "一个 n8n AI Agent 工作流、选定工具，以及经过授权的审核渠道。",
+          "steps": [
+            "在代理的 Tools 面板中添加人工审核步骤。",
+            "连接需要批准的工具，并配置审核渠道。",
+            "用无害的示例输入检查批准和拒绝两条路径。"
+          ],
+          "prompt": "起草[任务]。对外部写入要求人工批准。如被拒绝，报告操作已取消，不要改用其他工具重试。",
+          "caution": "审核实际工具参数；仅靠提示词不构成审批关卡。服务商可能收费。本次未确定发布日期。"
+        },
+        "ja": {
+          "title": "エージェントの操作前に承認を求める",
+          "description": "選択したツール呼び出しを一時停止し、確認者がパラメータを確認して承認または拒否できるようにします。",
+          "evidence": "n8n の公式文書は、ツール単位の人による確認と承認チャネルを説明しています。文書上の機能であり、当方の実測ではありません。",
+          "inputs": "n8n AI Agent ワークフロー、対象ツール、利用を許可された確認チャネル。",
+          "steps": [
+            "エージェントの Tools パネルから人による確認ステップを追加する。",
+            "承認が必要なツールを接続し、確認チャネルを設定する。",
+            "無害なサンプル入力で承認と拒否の両経路を確認する。"
+          ],
+          "prompt": "[タスク]の案を作成してください。外部への書き込みには人の承認を必要としてください。拒否されたらキャンセルを報告し、別のツールで再試行しないでください。",
+          "caution": "実際のツールパラメータを確認してください。プロンプトだけでは承認の仕組みになりません。サービス料金が発生する場合があります。今回は公開日を確定していません。"
+        }
+      },
+      "sourcePublishedAt": null,
+      "addedAt": "2026-10-16T05:26:37.793Z",
+      "checkedAt": "2026-10-16T05:26:37.793Z"
+    },
+    {
+      "id": "github-security-alert-fix",
+      "title": "Turn a security alert into a draft fix",
+      "category": "Agents & coding",
+      "tool": "GitHub Copilot",
+      "icon": "⌘",
+      "description": "Assign an eligible code-scanning alert to an agent that proposes a patch and opens a draft pull request.",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/",
+      "evidence": "GitHub's October 15, 2026 announcement describes repository exploration, fixes and CodeQL reruns. Vendor capability, not our test.",
+      "inputs": "An eligible Enterprise Cloud repository, security entitlement, enabled policies and billing.",
+      "steps": [
+        "Check access policies and Code Security budget.",
+        "Select a default-branch alert for assignment.",
+        "Review the draft patch and validation before merging."
+      ],
+      "prompt": "Propose a minimal fix for this alert. Explain changes and validation, flag uncertainty, and leave a draft for human review.",
+      "caution": "Consumes Code Security AI Credits and Actions minutes. Limited to default-branch alerts; validation does not guarantee security.",
+      "sourceType": "official",
+      "tested": false,
+      "translations": {
+        "zh": {
+          "title": "把安全告警转成修复草稿",
+          "description": "将符合条件的代码扫描告警分配给代理，由其提出补丁并创建草稿拉取请求。",
+          "evidence": "GitHub 在 2026 年 10 月 15 日的公告中介绍了仓库探索、修复和重新运行 CodeQL。这是厂商能力说明，并非我们的实测。",
+          "inputs": "符合条件的 Enterprise Cloud 仓库、安全功能使用资格、已启用的策略及计费配置。",
+          "steps": [
+            "检查访问策略和 Code Security 预算。",
+            "选择默认分支上的告警进行分配。",
+            "合并前审核补丁草稿及验证结果。"
+          ],
+          "prompt": "针对这条告警提出最小修复方案。解释修改和验证，标出不确定之处，并留下供人工审核的草稿。",
+          "caution": "消耗 Code Security AI Credits 和 Actions 分钟数。仅支持默认分支告警；验证不保证安全。"
+        },
+        "ja": {
+          "title": "セキュリティ警告から修正案を作成する",
+          "description": "対象となるコードスキャン警告をエージェントに割り当て、パッチ案とドラフトのプルリクエストを作成させます。",
+          "evidence": "GitHub の 2026 年 10 月 15 日の発表は、リポジトリ調査、修正、CodeQL の再実行を説明しています。ベンダーの機能説明であり、当方の実測ではありません。",
+          "inputs": "対象の Enterprise Cloud リポジトリ、セキュリティ機能の利用資格、有効なポリシーと課金設定。",
+          "steps": [
+            "アクセスのポリシーと Code Security 予算を確認する。",
+            "既定ブランチの警告を選んで割り当てる。",
+            "マージ前にパッチ案と検証結果を確認する。"
+          ],
+          "prompt": "この警告に対する最小限の修正案を示してください。変更と検証を説明し、不確実な点を明記して、人の確認用にドラフトを残してください。",
+          "caution": "Code Security AI Credits と Actions の実行時間を消費します。対象は既定ブランチの警告のみで、検証は安全性を保証しません。"
+        }
+      },
+      "sourcePublishedAt": "2026-10-15",
+      "addedAt": "2026-10-16T06:26:51.218Z",
+      "checkedAt": "2026-10-16T06:26:51.218Z"
+    }
+  ],
+  "runs": [
+    {
+      "summaryTranslations": {
+        "zh": "跨内容创作、研究、生活效率、编程和自动化进行了搜索。阅读 GitHub 10 月 15 日的代理修复原始公告，新增一个不同用途的官方指南及中日文翻译。宽泛搜索结果较杂，第二搜索引擎返回无关结果，因此直接核对原始公告。未执行工具、调用付费 API，也未验证性能或收入说法。",
+        "ja": "コンテンツ制作、調査、生産性、コーディング、自動化を検索しました。GitHub の 10 月 15 日のエージェント修正の原典発表を読み、異なる用途の公式ガイド1件と中国語・日本語訳を追加しました。広い検索には雑音が多く、第2の検索エンジンでは無関係な結果が出たため、原典発表を直接確認しました。ツール実行、有料 API 呼び出し、性能や収益の主張の検証は行っていません。"
+      },
+      "runId": "hourly-20261016T0622",
+      "at": "2026-10-16T06:26:51.218Z",
+      "added": 1,
+      "updated": 0,
+      "ids": [
+        "github-security-alert-fix"
+      ],
+      "summary": "Searched across content creation, research, productivity, coding and automation. Read GitHub's original October 15 agentic-autofix announcement and added one distinct official guide with zh/ja translations. Broad searches were noisy; the second search engine returned unrelated results, so the original announcement was used directly. No tools were executed, paid APIs called, or performance and income claims verified."
+    },
+    {
+      "summaryTranslations": {
+        "zh": "搜索了内容创作、研究、生活效率、编程和自动化公告及指南。阅读 n8n 原始人工审核文档及 GitHub 代理工作流公告。新增一个不重复的审批关卡指南，并提供中日文翻译。搜索结果包含较早来源；未确定 n8n 页面准确发布日期。未执行工作流、调用付费 API 或验证性能。",
+        "ja": "コンテンツ制作、調査、日常の生産性、コーディング、自動化の発表やガイドを検索しました。n8n の原典の人による確認の文書と GitHub のエージェントワークフロー発表を読みました。重複しない承認ゲートのガイド1件と中国語・日本語訳を追加しました。検索結果には古い情報源も含まれ、n8n ページの正確な公開日は確定していません。ワークフロー実行、有料 API 呼び出し、性能検証は行っていません。"
+      },
+      "runId": "hourly-20261016T0522",
+      "at": "2026-10-16T05:26:37.793Z",
+      "added": 1,
+      "updated": 0,
+      "ids": [
+        "agent-tool-human-approval"
+      ],
+      "summary": "Searched content, research, productivity, coding and automation announcements and guides. Read n8n's original human-review documentation and GitHub's agentic-workflow announcement. Added one nonduplicate approval-gate guide with zh/ja translations. Search results included older sources; no exact publication date was established for the n8n page. No workflow execution, paid API calls or performance verification."
+    },
+    {
+      "summaryTranslations": {
+        "zh": "搜索了内容创作、研究、生活效率、编程和自动化来源。阅读原始代码审查教程及 Google 10 月 14 日 Earth AI 公告，新增两个不同用途的指南及中日文翻译。宽泛的近期搜索返回较多无关结果。教程较早，未确定准确日期；Earth AI 为实验访问。未运行工作流或付费 API，未验证性能、流量或收入。",
+        "ja": "コンテンツ制作、調査、日常の生産性、コーディング、自動化の情報源を検索しました。原典の PR レビューチュートリアルと Google の 10 月 14 日の Earth AI 発表を読み、異なる用途のガイド2件と中国語・日本語訳を追加しました。広い最近の検索では無関係な結果も多くありました。チュートリアルは以前からあるもので正確な日付は未確認、Earth AI は実験アクセスです。ワークフローや有料 API は実行せず、性能・流量・収益は検証していません。"
+      },
+      "runId": "hourly-20261016T0422",
+      "at": "2026-10-16T04:25:43.983Z",
+      "added": 2,
+      "updated": 0,
+      "ids": [
+        "pr-review-team-guidelines",
+        "earth-ai-site-screening"
+      ],
+      "summary": "Searched content, research, productivity, coding and automation sources. Read an original PR-review tutorial and Google's October 14 Earth AI announcement; added two distinct guides with zh/ja translations. Broad recent searches returned noisy unrelated results. The tutorial is older with no exact date established; Earth AI access is experimental. No workflows or paid APIs were executed; no performance, traffic or income verified."
+    },
+    {
+      "summaryTranslations": {
+        "zh": "检查了内容创作、研究和代理效率相关搜索结果；阅读两篇 n8n 原始模板页面，新增两个不同用途的教程，并提供中日文翻译。它们是已有模板，并非新品；本次未确定准确发布日期。未运行工作流或付费 API，也未验证热度或收入说法。",
+        "ja": "コンテンツ制作、調査、エージェントによる生産性向上の検索結果を確認し、n8n の原典テンプレート2件を読んで、異なる用途のチュートリアル2件と中国語・日本語訳を追加しました。既存のテンプレートで、新規リリースではなく、正確な公開日は確定していません。ワークフローや有料 API は実行せず、人気や収益の主張も検証していません。"
+      },
+      "runId": "hourly-20261016T0322",
+      "at": "2026-10-16T03:23:08.844Z",
+      "added": 2,
+      "updated": 0,
+      "ids": [
+        "youtube-content-bundle",
+        "meeting-transcript-followup"
+      ],
+      "summary": "Checked search results across content, research and agent productivity; read two original n8n template pages and added two distinct tutorials with Chinese and Japanese translations. These are existing templates, not new releases; exact publication dates were not established. No workflows or paid APIs were executed, and no popularity or income claims were verified."
+    },
+    {
+      "runId": "hourly-20261016T0222",
+      "at": "2026-10-16T02:23:23.561Z",
+      "added": 3,
+      "updated": 0,
+      "ids": [
+        "gemini-connected-app-tasks",
+        "haiku-agent-ticket-triage",
+        "calendar-agent-starter"
+      ],
+      "summary": "Read four original pages and added three distinct guides: connected-app tasks, ticket triage and a calendar assistant. Two sources have October 2026 publication dates; the calendar template is older and labeled accordingly. Initial broad searches were noisy, so source-specific follow-ups were used. No workflows, payments or performance claims were tested."
+    },
+    {
+      "runId": "schedule-enabled-20261016",
+      "at": "2026-10-16T02:21:36.182Z",
+      "added": 0,
+      "updated": 0,
+      "ids": [],
+      "summary": "Configuration: linked hourly research schedule saved and enabled in Asia/Tokyo. This entry records configuration only, not a completed unattended research run."
+    },
+    {
+      "runId": "initial-research-20261016",
+      "at": "2026-10-16T02:20:27.014Z",
+      "added": 3,
+      "updated": 0,
+      "ids": [
+        "research-linear-agent",
+        "deep-research-loop",
+        "browser-agent-library"
+      ],
+      "summary": "Setup research pass: read three original provider/project pages and added three source-linked guides. These are existing workflows newly catalogued here, not claimed new releases. No workflows were executed and no income or popularity was verified."
+    }
+  ],
+  "lastCheckedAt": "2026-10-16T06:26:51.218Z",
+  "schedule": {
+    "enabled": false,
+    "cadence": "Portable snapshot; automatic updates are not connected"
+  }
+}
