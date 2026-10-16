@@ -1,0 +1,34 @@
+name: Discover AI workflow signals
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: atlas-discover
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Discover public candidates
+        run: node scripts/discover.mjs
+      - name: Commit changed discovery feed
+        run: |
+          if git diff --quiet -- public/discoveries.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/discoveries.json
+          git commit -m "chore: refresh public AI discovery feed"
+          git push
