@@ -45,3 +45,9 @@ python3 -m http.server 3000 --directory dist
 
 ## 安全与真实性
 未包含 node_modules、构建缓存、Git 历史、登录状态、API 密钥或服务访问令牌。所有条目 tested=false。来源说明、厂商/作者说法与实测结论保持区分。未添加流量、收入、效果保证。新部署默认不自动申请 Google 收录，也未添加未经授权的站点验证信息。
+
+## Automated discovery (October 2026)
+
+A scheduled GitHub Actions workflow at `.github/workflows/atlas-discover.yml` runs daily at 03:17 UTC and can also be launched manually via **Actions → Discover AI workflow signals → Run workflow**. The script `scripts/discover.mjs` reads public Hacker News/Algolia search results, deduplicates recent links, and commits `public/discoveries.json` when candidates change. A separate `/discoveries.html` page displays **unverified** candidates in English, Chinese and Japanese. Only the pre-existing, curated `public/directory-data.json` is used in the main directory, and is **not** automatically modified. This avoids publishing hallucinated claims from unverified links.
+
+The default `GITHUB_TOKEN` needs repository **Contents: read and write** permission, and GitHub Actions must be enabled. If the Actions workflow cannot push due to repository policy, check Settings → Actions → General → Workflow permissions. No external API key or LLM charges are required. Feed APIs may fail or change; failures are logged and existing data remains. Running on the schedule can be delayed by GitHub. Once a commit succeeds, Vercel should automatically rebuild. This is automated public-signal collection, **not** an independently fact-checking AI agent; human review is still required to promote links to the curated 22-entry directory.
