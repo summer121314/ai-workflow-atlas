@@ -1,133 +1,261 @@
 {
-  "updatedAt": "2026-10-29T04:01:24.667Z",
+  "updatedAt": "2026-10-30T04:02:07.931Z",
   "method": "Public Hacker News submissions surfaced by Algolia; not independently verified",
   "reviewRequired": true,
   "items": [
     {
-      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
-      "url": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/",
+      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-29T03:17:38.000Z",
+      "discoveredAt": "2026-10-30T03:37:14.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
-      "url": "https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/",
+      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
+      "url": "https://broutonlab.com/blog/deterministic-ai/",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-29T02:38:08.000Z",
+      "discoveredAt": "2026-10-29T23:52:20.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
-      "url": "https://ai-agent-antivirus.space/",
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "url": "https://judgementlabs.app/blog/the-coalition-room",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-29T01:56:16.000Z",
+      "discoveredAt": "2026-10-29T23:19:01.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-29T00:16:08.000Z",
+      "discoveredAt": "2026-10-29T21:40:28.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
-      "url": "https://armincat.com/articles/ai-agent-executed-same-query-254-times",
+      "title": "Comments on any web page that your AI agent can read and reply to",
+      "url": "https://www.npmjs.com/package/pipeup",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T22:29:54.000Z",
+      "discoveredAt": "2026-10-29T20:37:31.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "When AI goes rogue, its human overseers may be to blame",
-      "url": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
+      "title": "Teaching a 1999 VB6 app to talk to AI agents",
+      "url": "https://www.sql-server-tool.com/blog-vb6-ai-agents.htm",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T22:04:55.000Z",
+      "discoveredAt": "2026-10-29T18:32:15.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "AI agent skills for better second-hand decisions",
-      "url": "https://github.com/budna-marketplace/recommerce",
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T21:42:12.000Z",
+      "discoveredAt": "2026-10-29T18:23:18.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Agent Scrum: Running a team of AI coding agents in two-hour sprints",
-      "url": "https://daveremy.github.io/agent-scrum/",
+      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T18:47:09.000Z",
+      "discoveredAt": "2026-10-29T18:06:22.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "C# and NATS.io for agentic AI orchestration",
-      "url": "https://nats.io/blog/nats-native-protocol-for-ai-agents/",
+      "title": "Five Principles for Generating Readable AI Text in Bulk",
+      "url": "https://fsdatalab.github.io/blog/agent-text-at-scale/",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T18:16:32.000Z",
+      "discoveredAt": "2026-10-29T17:53:34.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Rent the model, own the harness: how to build a model-agnostic AI agent",
-      "url": "https://blog.getwerk.ai/posts/rent-the-model-own-the-harness",
+      "title": "Show HN: Sheetgraph, AI agents can understand complex spreadsheets",
+      "url": "https://github.com/asharma327/sheetgraph",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T17:51:10.000Z",
+      "discoveredAt": "2026-10-29T17:49:55.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Show HN: Preview video timelines live in the browser as AI agents edit them",
-      "url": "https://github.com/tellers-ai/skills",
+      "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
+      "url": "https://github.com/oimo-ai/apgar",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T17:39:29.000Z",
+      "discoveredAt": "2026-10-29T17:04:06.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Show HN: X402 integrations for an AI-agent data API, checked in a clean room",
-      "url": "https://www.blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
+      "title": "We built a blogging platform for AI agents. One sent us useful feedback",
+      "url": "https://blog.slopit.io/ai-agent-sent-us-feedback/",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T16:50:10.000Z",
+      "discoveredAt": "2026-10-29T16:45:46.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Show HN: Potential conversation partners in Bluesky using agentic search",
-      "url": "https://sketch.wsng.app/",
+      "title": "Anthropomorphize Your AI Agent for Fun and Profit",
+      "url": "https://theautomatedoperator.substack.com/p/anthropomorphize-your-ai-agent-for",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T16:32:12.000Z",
+      "discoveredAt": "2026-10-29T16:37:11.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Bot2bot – a relay that lets personal AI agents message each other",
-      "url": "https://www.bot2bot.link/",
+      "title": "Luma – smart launcher for you, and your AI agent",
+      "url": "https://github.com/sakurartro/luma",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T16:31:35.000Z",
+      "discoveredAt": "2026-10-29T16:30:06.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Who Is the Agent Acting As? Why AI Agents Become Confused Deputies",
-      "url": "https://dvlog.dev/posts/agent-authorization-confused-deputy/",
+      "title": "Scaling Reliable AI Agents",
+      "url": "https://productnow.ai/blogs/scaling-reliable-ai-agents",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T16:26:35.000Z",
+      "discoveredAt": "2026-10-29T16:29:26.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "/R/fossdroid latest to join Reddit AI ban",
-      "url": "https://old.reddit.com/r/fossdroid/comments/1xfefns/your_tokens_arent_valuable_no_more_ai/",
+      "title": "Serving Prefill and Decode for Agentic AI (On Tenstorrent Blackhole)",
+      "url": "https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai",
       "source": "Hacker News",
-      "discoveredAt": "2026-10-28T16:20:48.000Z",
+      "discoveredAt": "2026-10-29T15:52:42.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Running Self-Hosted AI Agents on Oxide",
+      "url": "https://oxide.computer/blog/self-hosted-ai-agents",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T15:47:58.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Wavefunction – a minimal, open-source desktop coding agent for Mac",
+      "url": "https://www.wavefunction.si/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T15:43:51.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Backend for Agents and Builders who don't need one yet – Statebase",
+      "url": "https://statebase.dev/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T15:19:01.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: I built a tamper-evident flight recorder for AI agents",
+      "url": "https://github.com/mnestiq/mnestiq",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T14:54:34.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Former GitHub CEO launches rival Git forge built for AI coding agents",
+      "url": "https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T14:53:37.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Posit Assistant makes better use of your token budget than leading coding agents",
+      "url": "https://opensource.posit.co/blog/2026-10-29_ai-newsletter/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T14:52:32.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "FusionAuth 1.70: least privilege for your customers' AI agents",
+      "url": "https://fusionauth.io/blog/announcing-fusionauth-1-70",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T14:45:50.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "The AI-Augmented Developer: A Process for Writing Production Code with Agents",
+      "url": "https://cheikhhseck.medium.com/the-ai-augmented-developer-a-process-for-writing-production-code-with-agents-aea7c2133394",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T14:03:10.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "AI agents shape experts' judgment calls",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T13:19:31.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "SigNoz vs. Grafana vs. Datadog for AI Agents",
+      "url": "https://medium.com/tech-stackups/signoz-vs-grafana-vs-datadog-for-ai-agents-e403e1d4445e",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T13:19:21.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Pidgeon – Email inboxes for AI agents",
+      "url": "https://pidgeon.ai/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T12:55:12.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "How to Turn Production Sessions into Regression Tests for Your AI Agent",
+      "url": "https://medium.com/@MirArshadTalpur/how-to-turn-production-sessions-into-regression-tests-for-your-ai-agent-e7836c2d0fc4",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T12:50:23.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: The AI workspace for teammates share agents on company",
+      "url": "https://github.com/ahmadrosid/nakama",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T12:35:56.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Universal Blindspot Detector (AI meta-analysis)",
+      "url": "https://trooperloops.com/upload",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T12:29:57.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "AWF – AI Workflow Framework",
+      "url": "https://awf-project.ai/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T11:15:46.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
+      "url": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-29T10:54:29.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     },
@@ -140,62 +268,6 @@
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T15:46:30.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Watch AI agents build Pullboard, live",
-      "url": "https://pullboard.dev/live/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T15:39:57.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "AI's Rogue Behavior Starts with Its Training",
-      "url": "https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T15:34:39.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Coding agent spots your AI practices and the ones you're missing",
-      "url": "https://app.userrank.ai/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T15:26:16.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
-      "url": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T14:56:26.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Scaling AI in Legal: Building Uber's Redlining Agent",
-      "url": "https://www.uber.com/us/en/blog/building-ubers-redlining-agent/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T14:32:03.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
-      "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T14:15:42.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
       "title": "Bureau – Design-Review Workflow",
       "url": "https://www.zeniteq.com/bureau-7-10-adds-ten-gates-to-ai-design-review-dr3pxz",
       "source": "Hacker News",
@@ -204,82 +276,10 @@
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Show HN: Agent-B.V., adversarial tests and on-chain reports for AI agents",
-      "url": "https://agent-bv.pages.dev/app/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T14:03:38.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Keep your credentials out of the AI agents you use and build",
-      "url": "https://github.com/IdoGol24/weir",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T13:17:46.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "The Rise of the Lone Scientist Under Agentic AI",
-      "url": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T13:00:51.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Are our personal AI agents holding us hostage?",
-      "url": "https://trevinsays.com/p/are-our-personal-ai-agents-holding",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T12:46:12.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
       "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
       "url": "https://aiworkflows.tools/workflows",
       "source": "Hacker News",
       "discoveredAt": "2026-10-28T12:03:05.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Vibe coded a point-and-click game to learn about the Drupal AI Ecosystem",
-      "url": "https://workflows-of-ai.com/blog/i-vibe-coded-a-point-and-click-game-to-learn-about-the-drupal-ai-ecosystem",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-27T20:01:53.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "A free point and click adventure game in the browser teaching you Drupal AI",
-      "url": "https://macpackwala.workflows-of-ai.com/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-27T13:07:20.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Optio – A self-hosted orchestration platform for AI agents",
-      "url": "https://optio.host/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-25T18:37:48.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "TaskWire An MCP-based taskboard for managing AI agent workflows",
-      "url": "https://taskwire.si/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-25T06:44:53.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: AI Crash Debugging Gauntlet",
-      "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-23T23:11:06.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     }
