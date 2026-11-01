@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-10-31T03:58:32.124Z",
+  "updatedAt": "2026-11-01T04:06:12.502Z",
   "method": "Public Hacker News submissions surfaced by Algolia; not independently verified",
   "reviewRequired": true,
   "items": [
+    {
+      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+      "url": "https://github.com/shashtag-ventures/linkedin-ops",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T01:46:21.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Will AI take your job? You have more agency than you think",
+      "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T21:13:50.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T17:21:16.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Cheaper AI inference is making it harder to profit from renting out compute",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T17:13:50.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+      "url": "https://mobileagent.dev/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T15:21:57.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+      "url": "https://github.com/Annora998/inboxwall",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T14:59:36.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "An AI Agent Injected Drugs into a Live Mouse's Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T14:21:19.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T13:41:11.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Praex The AI coding agent that answers the question",
+      "url": "https://github.com/ailucius/praex-cli",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T13:35:42.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Collaborative AI agents for autonomous experimental research",
+      "url": "https://arxiv.org/abs/2610.40589",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T11:34:17.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+      "url": "https://github.com/openclaw/openclaw/pull/188766",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T09:05:23.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+      "url": "https://github.com/tapaskar/archwhere",
+      "source": "Hacker News",
+      "discoveredAt": "2026-10-31T05:46:30.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
     {
       "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
       "url": "https://bsvkey-governor-demo.fly.dev/",
@@ -172,78 +268,6 @@
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Show HN: Navital Gym – open environments for testing AI agents on Indian tasks",
-      "url": "https://github.com/Navitallabs/navital-gym",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T13:19:15.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Sikaru: self-improving agents, with the lab built in",
-      "url": "https://www.sikaru.ai/blog/introducing-sikaru",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T11:26:50.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Stripe Made Agentic Payments Possible. Why Your Server Still Blocks the Agents",
-      "url": "https://thebossmagazine.com/post/agentic-payments-ai-agents-retail-blocking/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T10:44:30.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Antigenic operating system for my AI agents Claude Code, open claw, codex etc.",
-      "url": "https://github.com/Dodaios/Dodaios",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T10:30:56.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Last night an AI agent performed surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T09:07:47.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
-      "url": "https://send21.io/demo",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T08:26:44.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
-      "url": "https://github.com/ZKStamp/AgentWallet",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T08:05:56.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Breatic – Collaborative canvases and documents with an AI agent",
-      "url": "https://github.com/orime-org/breatic",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T04:23:59.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
-      "url": "https://broutonlab.com/blog/deterministic-ai/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-29T23:52:20.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
       "title": "AWF – AI Workflow Framework",
       "url": "https://awf-project.ai/",
       "source": "Hacker News",
@@ -256,30 +280,6 @@
       "url": "https://github.com/dali-benothmen/woml",
       "source": "Hacker News",
       "discoveredAt": "2026-10-28T15:54:42.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Bureau – Design-Review Workflow",
-      "url": "https://www.zeniteq.com/bureau-7-10-adds-ten-gates-to-ai-design-review-dr3pxz",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T14:12:29.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
-      "url": "https://aiworkflows.tools/workflows",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T12:03:05.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "AetherGrid, an open-source distributed AI workload orchestrator",
-      "url": "https://github.com/wycliffRotich-dev/aethergrid",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T05:43:15.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     }
