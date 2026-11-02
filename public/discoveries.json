@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-11-01T04:06:12.502Z",
+  "updatedAt": "2026-11-02T04:14:09.459Z",
   "method": "Public Hacker News submissions surfaced by Algolia; not independently verified",
   "reviewRequired": true,
   "items": [
+    {
+      "title": "Agentic AI Is Myth Set in Motion",
+      "url": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-02T03:20:34.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Skep – live cross-device sessions for AI coding agents",
+      "url": "https://skepagent.com/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-02T01:20:00.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "url": "https://better-together.fun/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-02T00:19:11.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Made-of-meat, a listserv for agentic eng practitioners",
+      "url": "https://mom-hub.tryapexti.ai/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T23:07:29.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Argentina most exposed to AI impact in Latin America",
+      "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T22:13:09.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "PrayForMe – a garden of AI agents that pray for you",
+      "url": "https://prayforme.garden/garden/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T21:51:35.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+      "url": "https://www.anonce.io/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T21:44:21.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T18:33:02.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "We tested 12 search APIs for AI agents. Even the best one isn't enough",
+      "url": "https://telem.ai/blog/even-the-best-search-provider",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T17:57:19.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Prediction markets for AI research: can we price scientific truth?",
+      "url": "https://agentbook2.whf.bz/t/48/prediction-markets-for-ai-research-can-we-price-scientific-truth",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T16:02:40.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "How to Prove What Your AI Agent Did – ZizkaDB's Two GitHub Actions",
+      "url": "https://medium.com/@MirArshadTalpur/how-to-prove-what-your-ai-agent-did-in-minutes-zizkadbs-two-github-actions-and-mcp-listing-7d3d6669dab6",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T15:05:16.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T13:47:24.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Vibe Coding an Autonomous Agent Harness in Go: Self-Healing AI Workflows",
+      "url": "https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T13:37:38.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Agentic AI is myth set in motion",
+      "url": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T13:34:05.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "url": "https://agenticresourcediscovery.org/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T11:39:35.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "FreeGent: Free Agentic AI for Everyone",
+      "url": "https://freegent.ai/",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T09:20:16.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Show HN: OpenProject Agent Engine – Automated Workflow and Agent Dispatch",
+      "url": "https://github.com/310networks/openproject-agent-engine",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T09:06:06.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
+    {
+      "title": "Meridian: A peer-to-peer browser game world built by an AI agent",
+      "url": "https://blakelapierre.substack.com/p/meridian-in-action-play-it-in-your",
+      "source": "Hacker News",
+      "discoveredAt": "2026-11-01T05:25:33.000Z",
+      "status": "unverified",
+      "note": "Community-submitted link; check the original source before using."
+    },
     {
       "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
       "url": "https://github.com/shashtag-ventures/linkedin-ops",
@@ -124,54 +268,6 @@
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "Assure – your AI agent says \"done.\" This checks if it's lying",
-      "url": "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T22:48:05.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
-      "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T22:19:07.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Why my AI agents keep lie-ing? How do we trust?",
-      "url": "https://dotpals.vercel.app/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T21:47:31.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Open Agent Primitives: Run enterprise AI agents securely",
-      "url": "https://openap.org/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T21:05:26.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: mobile-agent – Let AI agents control Android and iOS devices",
-      "url": "https://github.com/gesposito/mobile-agent",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T20:54:51.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T20:30:06.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
       "title": "What's happening in Kubernetes to support AI workloads",
       "url": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/",
       "source": "Hacker News",
@@ -180,106 +276,10 @@
       "note": "Community-submitted link; check the original source before using."
     },
     {
-      "title": "EasyRE-Agent – an AI agent that solves crackmes and checks its own answers",
-      "url": "https://github.com/wojtas99/EasyRE-Agent",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T19:54:48.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "MecAgent (AI agent for SolidWorks) scans drives for CAD files and uploads them",
-      "url": "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T17:50:43.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T17:28:32.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Scaling to 50 coding agents without scaling human attention",
-      "url": "https://centauri-ai.tech/live/scaling-to-50-coding-agents-without-scaling-human-attention.html",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T15:52:15.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "AWS's Hydro team wants the compiler to catch coding agents' mistakes",
-      "url": "https://thenewstack.io/ai-agents-compiler-guardrails/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T15:26:37.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Man Hires Swarm of AI Agents to Go on Epic Hacking Spree Against Major Companies",
-      "url": "http://www.apex-news.com/newsitementry.aspx?id=fe1a783e-3fe1-4c06-bbdd-a93b55c6c4ec",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T15:06:23.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Omneum – Local, text-blind context control plane for AI agents",
-      "url": "https://github.com/cole-h06/omneum",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T15:03:29.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)",
-      "url": "https://github.com/mandarvshinde/ai-bill-to-focus",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T15:03:09.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: AI agent needs process to build a commercial application",
-      "url": "https://nomorehappypath.com/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T14:49:17.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy",
-      "url": "https://opencommerce.sh/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-30T14:35:29.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
       "title": "Show HN: Beolis – Manage your coding AI agents",
       "url": "https://beolis.com/",
       "source": "Hacker News",
       "discoveredAt": "2026-10-30T14:22:14.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "AWF – AI Workflow Framework",
-      "url": "https://awf-project.ai/",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-29T11:15:46.000Z",
-      "status": "unverified",
-      "note": "Community-submitted link; check the original source before using."
-    },
-    {
-      "title": "Show HN: WOML – A markup language for building workflows and AI agents",
-      "url": "https://github.com/dali-benothmen/woml",
-      "source": "Hacker News",
-      "discoveredAt": "2026-10-28T15:54:42.000Z",
       "status": "unverified",
       "note": "Community-submitted link; check the original source before using."
     }
